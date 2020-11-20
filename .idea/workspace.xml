@@ -20,22 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb3cd572-e984-4831-b443-0d31013fb783" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/add_song.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/artist_page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/charts.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/personal_page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/track_lyrics.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/LYRICS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LYRICS.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/article.html" beforeDir="false" afterPath="$PROJECT_DIR$/article.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/stylesheet.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/featured.html" beforeDir="false" afterPath="$PROJECT_DIR$/featured.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/videos.html" beforeDir="false" afterPath="$PROJECT_DIR$/videos.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/charts.html" beforeDir="false" afterPath="$PROJECT_DIR$/charts.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +85,7 @@
       <workItem from="1605708304548" duration="7991000" />
       <workItem from="1605735344022" duration="2306000" />
       <workItem from="1605765387393" duration="10446000" />
-      <workItem from="1605862994590" duration="10228000" />
+      <workItem from="1605862994590" duration="10379000" />
     </task>
     <servers />
   </component>
