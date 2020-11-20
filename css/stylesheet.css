@@ -1,6 +1,9 @@
 body {
     font-family: 'Montserrat', sans-serif;
 }
+ul {
+    margin-bottom: 0;
+}
 .page-holder {
     min-height: 100vh;
 }
@@ -71,7 +74,6 @@ a.logo{
     padding: .5rem 1rem;
     font-size: 1.25rem;
     line-height: 1.5;
-    border-radius: 0;
 }
 
 .footer-height {
@@ -91,8 +93,15 @@ a.logo{
     background-color: #FF7D94;
     border-color: #FF7D94;
 }
+.bg {
+    background: url('https://psv4.userapi.com/c856228/u405640435/docs/d6/d907ecbe35a3/background_main.png?extra=QYeI0aFKL66c_GoRZNfeVQSMe8JibhCKvGWx3NVZEBhRreDaW2ZWVHbEloaL1DM6_yH8HGJkWQ4qyE2DcxGQpPpihTkMXB2Bl96rH7s32nTUSR4hoCUdnhSzmkRe6M43f_xA-25lZqdaP5iyqsdDFTgeS10') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
 .album {
-    background: url('https://psv4.userapi.com/c856228/u405640435/docs/d6/a830e633e4df/background_main.png?extra=he4HUlAz-oSSAOrkWysWBjPn0QqKHEGC7RlBj3fX8nv3DioKQmA8-4fTpJp8PPF3CFvF67jN8cX5VrHIJaxtapThN8ZEFP-qOsluNiHatPWpk54sspyFFk53dKoNOBSnJu-ldYcO1cMwJzyJpvgYOQKNCZ4') no-repeat center center fixed;
+    background: url('https://psv4.userapi.com/c856228/u405640435/docs/d6/d907ecbe35a3/background_main.png?extra=QYeI0aFKL66c_GoRZNfeVQSMe8JibhCKvGWx3NVZEBhRreDaW2ZWVHbEloaL1DM6_yH8HGJkWQ4qyE2DcxGQpPpihTkMXB2Bl96rH7s32nTUSR4hoCUdnhSzmkRe6M43f_xA-25lZqdaP5iyqsdDFTgeS10') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -117,4 +126,158 @@ a.logo{
     margin-bottom: 1.25rem;
     color: #999;
 }
+.be-comment-block {
+    margin-bottom: 50px !important;
+    border: 1px solid #edeff2;
+    border-radius: 2px;
+    padding: 50px 70px;
+    border:1px solid #ffffff;
+}
+
+.comments-title {
+    font-size: 16px;
+    color: #262626;
+    margin-bottom: 15px;
+}
+
+.be-img-comment {
+    width: 60px;
+    height: 60px;
+    float: left;
+    margin-bottom: 15px;
+}
+
+.be-ava-comment {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+
+.be-comment-content {
+    margin-left: 80px;
+}
+
+.be-comment-content span {
+    display: inline-block;
+    width: 49%;
+    margin-bottom: 15px;
+}
+
+.be-comment-name {
+    font-size: 13px;
+    }
+
+.be-comment-content a {
+    color: #383b43;
+}
+
+.be-comment-content span {
+    display: inline-block;
+    width: 49%;
+    margin-bottom: 15px;
+}
+
+.be-comment-time {
+    text-align: right;
+}
+
+.be-comment-time {
+    font-size: 11px;
+    color: #b4b7c1;
+}
+
+.be-comment-text {
+    font-size: 13px;
+    line-height: 18px;
+    color: #7a8192;
+    display: block;
+    background: #f6f6f7;
+    border: 1px solid #edeff2;
+    padding: 15px 20px 20px 20px;
+}
+.form-group .form-input {
+    font-size: 13px;
+    font-weight: 400;
+    color: #b4b7c1;
+    width: 100%;
+    height: 50px;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: 1px solid #edeff2;
+    border-radius: 3px;
+}
+
+.form-group textarea.form-input {
+    height: 150px;
+}
+.jumbotron {
+    border-radius: 0;
+}
+.bg-lyrics {
+    background: url("https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77701274791.jpg")!important;
+    background-repeat: no-repeat;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+.cover-image {
+    background: url("https://images.complex.com/complex/image/upload/c_fill,dpr_auto,f_auto,fl_lossy,g_face,q_auto,w_1280/cjswt6lszt0lnyfyz3bd.jpg") 50% 50% no-repeat;
+    background-size: contain;
+    object-fit: cover;
+    width: 250px;
+    height: 250px;
+}
+.bg-user {
+    background: url("https://i.pinimg.com/originals/64/bf/80/64bf80d6e6aff63853b659917943d738.png")!important;
+    background-repeat: no-repeat;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    backdrop-filter: blur(2px);
+}
+
+.user-image {
+    background: url("https://i.pinimg.com/originals/64/bf/80/64bf80d6e6aff63853b659917943d738.png") 50% 50% no-repeat;
+    background-size: contain;
+    object-fit: cover;
+    width: 250px;
+    height: 250px;
+    border-radius: 125px;
+    border: 3px solid white!important;
+}
+.custom-mt-0 {
+    margin-bottom: 0;
+}
+
+.dark-link {
+    color: #121212;
+}
+.dark-link:hover {
+    color: #121212;
+    text-decoration: none;
+}
+.text-shadow-pink {
+    text-shadow: 3px 3px #FF7D94;
+}
+.text-shadow-dark {
+    text-shadow: 2px 2px 3px #000000;
+}
+.form-control {
+    border-radius: 0;
+    border: 0;
+}
+.custom-select {
+    border-radius: 0;
+    border: 0;
+}
+.card {
+    border: 0;
+    border-radius: 0;
+}
+.card-img-top, .card-img {
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+
 
